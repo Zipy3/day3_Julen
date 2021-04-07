@@ -1,4 +1,8 @@
 peli 1
 peli 2
 peli 3
+<<<<<<< HEAD
 peli 4
+=======
+peli para que entre en conflicto. LA peli que crisa tiene montada
+>>>>>>> 86d49583f94aafb2d71c6a51cd11001fb6b74fb0
