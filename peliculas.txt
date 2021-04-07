@@ -7,3 +7,4 @@ peli 3
 peli 4
 peli 5 que mete julen
 pelit 6 y voy a crear una rama feature1
+ya estoy en feature 1, y en el otro fichero de la otra rama hay otra cosita.
