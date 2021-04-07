@@ -1,4 +1,5 @@
 peli 1
-peli 2
+peli 2 y automerge probando
 peli 3
 peli 4
+peli 5 que mete julen
