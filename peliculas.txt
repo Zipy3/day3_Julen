@@ -7,4 +7,4 @@ peli 3
 peli 4
 peli 5 que mete julen
 pelit 6 y voy a crear una rama feature1
-tendrás que hacer un commit dpues de crear la rama sosio
+tendrás que hacer un commit dpues de crear la rama sosiogit 
